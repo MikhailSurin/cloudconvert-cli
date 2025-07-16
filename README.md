@@ -9,6 +9,7 @@ As this CLI is based on the [cloudconvert-node](https://github.com/cloudconvert/
 
     npm install -g cloudconvert-cli
     
+    npm install -g git+ssh://git@github_mikhail_surin:MikhailSurin/cloudconvert-cli.git
     
 And set your CloudConvert [API v2 Key](https://cloudconvert.com/dashboard/api/v2/keys) as enviroment variable:
 
